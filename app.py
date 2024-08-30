@@ -5,6 +5,13 @@ restaurantes = [{"nome" : "Praça", "categoria" : "Japonesa", "ativo" :False},
                 {"nome" : "Cantina", "categoria" : "lanches", "ativo" :False}
                 ]
 
+"""Iputs:
+- Nome do restaurante
+- Categoria
+
+Outputs:
+- Adiciona um novo restaurante a lista"""
+
 def exibir_nome_do_programa():
     print("🅢🅐🅑🅞🅡 🅔🅧🅟🅡🅔🅢🅢\n")
 
